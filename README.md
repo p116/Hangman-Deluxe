@@ -1,4 +1,4 @@
-# hangman
+# Hangman Java
 A Java console-only version of the popular game Hangman! Contains a customizable text file that holds all of the guessing words.
 
 There is also a Title file which can be changed to display whatever message you would like (in ASCII characters) whenever you run the game.
