@@ -1,4 +1,4 @@
-# Hangman Java
+# Hangman Deluxe
 A Java console-only version of the popular game Hangman! Contains a customizable text file that holds all of the guessing words.
 
 You can choose to play the game solo, multiplayer (sharing the same keyboard), or vs. AI!
